@@ -1,0 +1,88 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 0 15px;
+    margin: 0 auto;
+    max-width: 1140px;
+}
+
+.header{
+    color:white;
+    padding: 20px;
+    background: #151C39E9;
+    box-sizing: border-box;
+    will-change: 100%;
+}
+
+.menu-item{
+    list-style: none;
+}
+
+.menu-link{
+    color: white;
+    text-decoration: none;
+}
+
+.banner-section{
+    padding: 100px 0;
+    background: url(img/photo1698993262.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-title{
+    font-size: 50px;
+}
+
+.banner-description{
+    font-size: 35px;
+}
+
+.banner-title, .banner-description{
+    color: white;
+    text-align: center;
+}
+
+.cards-section{
+    padding: 50px 0;
+}
+
+.cards-title, .cards-description{
+    color: #151C39E9 ;
+    text-align: center;
+}
+
+.card{
+    padding: 25px;
+    margin-top: 25px;
+    width: 25%;
+    background: white;
+    box-shadow: 0px 2px 7px 0px #9e90ff;
+    text-align: center;
+}
+
+.card-button{
+    background: #151C39E9 ;
+    padding: 10px 70px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.card-link{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    background: url(img/photo1698993262\ \(3\).jpeg);
+}
+
+.copyright{
+    color: white;
+}
+
